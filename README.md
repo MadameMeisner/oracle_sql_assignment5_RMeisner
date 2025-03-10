@@ -1,4 +1,4 @@
-# oracle_sql_assignment5_RMeisner
+# oracle_sql_assignment5_RMeisne
 SQL Database Management_DDL_DML
 
 CREATE TABLE Customers ( 
